@@ -25,7 +25,7 @@ POST /api/mods/upload
 #### Parameters
 | Nama | Tipe | Wajib | Deskripsi |
 |------|------|-------|-----------|
-| file | File | Ya | File yang akan diupload (maksimal 10MB) |
+| file | File | Ya | File yang akan diupload |
 | type | String | Ya | Tipe file: "image", "mod", atau "livery" |
 
 #### Response Success (200 OK)
