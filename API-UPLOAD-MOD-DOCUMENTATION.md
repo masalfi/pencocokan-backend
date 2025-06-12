@@ -8,12 +8,6 @@ Semua API endpoint memerlukan token permanen untuk autentikasi. Token ini harus 
 Authorization: Bearer YOUR_PERMANENT_TOKEN
 ```
 
-Untuk mendapatkan token permanen, gunakan endpoint:
-
-```
-GET /api/admin/generate-token
-```
-
 ## API Endpoints
 
 ### 1. Upload File
